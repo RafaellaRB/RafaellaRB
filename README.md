@@ -1,5 +1,4 @@
-
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://user-images.githubusercontent.com/117828313/282136186-9a4cb84e-5280-4246-ae78-991bc9995850.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"></p>&nbsp;
