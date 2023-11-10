@@ -1,6 +1,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://user-images.githubusercontent.com/117828313/282138983-bf2f2981-eb9c-48a2-9144-c1630a5ffe8c.png" />
 &nbsp;&nbsp;&nbsp;
 
+A technology enthusiast constantly seeking knowledge and exciting challenges :smiley: Currently, I am exploring the world of Information Technology Infrastructure, honing my skills on platforms such as Azure and AWS, and delving into the fascinating realm of cloud computing. My goal? To become a full-stack developer, integrating the best of both worlds: software development and robust infrastructure. My journey extends beyond codes and servers. I am truly passionate about all areas of technology, from the intricacies of development to the nuances of system architecture. I believe that this comprehensive approach is essential for building innovative and impactful solutions. 
+
 <p align="center"></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
